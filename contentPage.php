@@ -1,6 +1,7 @@
 <html>
     <head>
         <link rel="stylesheet" href="styles/contentPage.css"/>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     </head>
     <body>
         <?php 
@@ -22,8 +23,8 @@
 
                 echo "<h1 class='title'>". $title. "</h1>";
                 echo "<h2>". $subt. "</h2>";
-                echo "<iframe src='$link'
-                        frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen>
+                echo "<iframe id='ifvideo' src='$link'
+                        frameborder='0' allow='accelerometer; autoplay=1; encrypted-media; gyroscope;' allowfullscreen>
                     </iframe>"
             ?>
         </div>
