@@ -1,4 +1,4 @@
-{
+﻿{
     "movies": [
         {
             "title": "Super herói",
@@ -256,13 +256,5 @@
             "language": "Dublado",
             "link": "https://drive.google.com/file/d/1qOJpFjuBGaYKXnwV1bO3utfaieBNznxD/preview?"
         },
-        {
-            "title": "Quebrando a banca",
-            "subt": " ",
-            "img": "images/Quebrando a banca.jpg",
-            "duration": "2h 02min 35s",
-            "language": "Dublado",
-            "link": "https://drive.google.com/file/d/1xEl8yO3OtdB_D9Yp-IT5gxZqbc8qa4c9/preview?"
-        }
     ]
 }
