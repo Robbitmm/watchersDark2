@@ -5,7 +5,11 @@
 
     <?php
         $data = file_get_contents("content.json");
-        $json = json_decode($data, true);
+
+        //substr($string, numOfBits) -> Remove the first 3 bits
+        //https://stackoverflow.com/questions/689185/json-decode-returns-null-after-webservice-call
+
+        $json = json_decode(substr($data, 3), true);
         $i = 0;
 
         $outout = "<div class='movies'>
