@@ -20,12 +20,14 @@
                 $title = $movie['title'];
                 $subt = $movie['subt'];
                 $link = $movie['link'];
+                $lang = $movie['language'];
 
                 echo "<h1 class='title'>". $title. "</h1>";
                 echo "<h2>". $subt. "</h2>";
                 echo "<iframe id='ifvideo' src='$link'
-                        frameborder='0' allow='accelerometer; autoplay=1; encrypted-media; gyroscope;' allowfullscreen>
-                    </iframe>"
+                        frameborder='0' allow='accelerometer; autoplay=1; encrypted-media; gyroscope;' allow fullscreen>
+                    </iframe>
+                    <p>" . $lang . "</p>"
             ?>
         </div>
     </body>

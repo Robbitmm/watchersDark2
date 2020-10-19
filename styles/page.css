@@ -110,6 +110,7 @@ a{
 @media (min-width: 1280px) {
     .movies{
         width: 1225px;
+        width: 95%;
     }
 
     .title{

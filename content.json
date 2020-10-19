@@ -1,6 +1,62 @@
 ﻿{
     "movies": [
         {
+            "title": "Pantera Negra",
+            "subt": "",
+            "img": "images/Pantera Negra.jpg",
+            "duration": "2h 14min 33s",
+            "language": "Dublado",
+            "link": "https://drive.google.com/file/d/1B2KepScP2w69N6Sdq2cmsZ3qY3tAaK2W/preview?"
+        },
+        {
+            "title": "Vingadores",
+            "subt": "Ultimato",
+            "img": "images/Vingadores - Ultimato.jpg",
+            "duration": "3h 01min 11s",
+            "language": "Dublado",
+            "link": "https://drive.google.com/file/d/1_fwv-3_36prytQxOza7NnIsa9q27UlE5/preview?"
+        },
+        {
+            "title": "Vingadores",
+            "subt": "Guerra Infinita",
+            "img": "images/Vingadores - Guerra Infinita.jpg",
+            "duration": "2h 29min 21s",
+            "language": "Dublado",
+            "link": "https://drive.google.com/file/d/1C-TwaeYv27DMlXri7kMYD7Jlp7Xn3lpZ/preview?"
+        },
+        {
+            "title": "Vingadores",
+            "subt": "Era de Ultron",
+            "img": "images/Vingadores - Era de Ultron.jpg",
+            "duration": "2h 21min 17s",
+            "language": "Dublado",
+            "link": "https://drive.google.com/file/d/1usra95YmdJZ8gU8v1xOpufCG1IAhrn32/preview?"
+        },
+        {
+            "title": "Vingadores",
+            "subt": "",
+            "img": "images/Vingadores.jpg",
+            "duration": "2h 22min 55s",
+            "language": "Dublado",
+            "link": "https://drive.google.com/file/d/1x8vggp1DE_AY1tOhcmSNRtdHSHAKMm3_/preview?"
+        },
+        {
+            "title": "Thor",
+            "subt": "",
+            "img": "images/Thor.jpg",
+            "duration": "1h 54min 50s",
+            "language": "Dublado",
+            "link": "https://drive.google.com/file/d/1Cr4CXxDQna7hY9noRUiLu5n_WSXHZjUh/preview?"
+        },
+        {
+            "title": "Venom",
+            "subt": "",
+            "img": "images/Venom.jpg",
+            "duration": "1h 52min 08s",
+            "language": "Dublado",
+            "link": "https://drive.google.com/file/d/1kVujrzD-IS95h05KvTfK1YsQF5qVIbUK/preview?"
+        },
+        {
             "title": "Homem Formiga ea Vespa",
             "subt": "",
             "img": "images/Homem Formiga ea Vespa.jpg",
@@ -103,6 +159,14 @@
             "duration": "2h 04min 11s",
             "language": "Dublado",
             "link": "https://drive.google.com/file/d/1rhfbatS9ZqCd8-OamRIR4B5u4I7Q3vXg/preview?"
+        },
+        {
+            "title": "Truque de Mestre",
+            "subt": "",
+            "img": "images/Truque de Mestre.jpg",
+            "duration": "1h 55min 23s",
+            "language": "Dublado",
+            "link": "https://drive.google.com/file/d/1D6W3W60mPvxjZXaoyHfCMyR8Hvl1hyO0/preview?"
         },
         {
             "title": "Motoqueiro Fantasma",

@@ -93,6 +93,69 @@ header{
     width: 100%;
 }
 
+/*EFECT*/
+
+.info {
+    position: relative;
+    
+    right: 35px;
+    bottom: -15px; /*Não pode ser usando top*/
+
+    width: 145px;
+    border-radius: 10px;
+
+    display: inline-block;
+    transition: transform .25s linear;
+    opacity: 0;
+    background-color: #000000;
+    height: 100%;
+    transform: scaleY(0);
+}
+
+.titulo:hover .info {
+    opacity: 0.8;
+    transform: scaleY(1);
+    transform-origin: bottom;
+}
+
+.topic-Title{
+    text-align: center;
+    font-size: 20px;
+    white-space: normal; /*Quebra de Linha*/
+    
+
+    color: #ffffff;
+    list-style: none;
+
+    padding-bottom: 20px;
+    padding: 0;
+
+    margin-top: 20px;
+    margin-left: -30px;
+}
+
+.topic-Subtitle {
+    text-align: center;
+    font-size: 20px;
+    white-space: normal;
+
+    color: #ffffff;
+    list-style: none;
+    padding-top: 20px;
+    padding: 10px;
+    margin-left: -30px;
+}
+
+.topic {
+    color: #ffffff;
+    position: relative;
+    list-style: none;
+    
+    text-align: center;
+    padding: 10px;
+    margin-left: -30px;
+}
+
 /*O dobro do original*/
 @media (min-width: 480px) {
     .btnMenu {
@@ -130,37 +193,114 @@ header{
 
  /*1.9x maior*/
 @media (min-width: 768px) {
-    .btnMenu {
-        width: 55px;
-        padding-left: 10px;
-    }
 
     .search_icon {
         width: 50px;
         padding: 5px 10px 10px 10px;
     }
 
+    header{
+        padding-bottom: 50px;
+        border: none;
+    }
+
+    .Logo {
+        position: relative;
+
+        margin-left: 0;
+        padding-top: 10px;
+        padding-left: 10px;
+        width: 150px;
+        float: left;
+    }
+
+    .Menu{
+        transform: translateX(0);
+    }
+
+    .btnMenu {
+        display: none;
+    }
+
+    .search_icon{
+        width: 30px;
+        float: right;
+        padding: 10px 30px 30px 3px;
+    }
+
     #search_input {
-        height: 50px;
+        position: relative;
+        float: right;
+
+        font-size: 15px;
+
+        height: 0px;
+        width: 300px;
+
+        top: 30px;
+        left: -10px;
+
+        display: block;
+    }
+
+
+                /*Menu*/
+    .Menu li {
+        position: relative;
+        display: inline-block;
+        border-bottom: none;
+        background-color: transparent;
+        margin-left: -100px;
+        margin-right: 100px;
+        height: 30px;
+        font-size: 25px;
+        word-spacing: 30px;
+        bottom: 50px;
+    }
+
+    .Menu li:hover {
+        background-color: transparent;
+    }
+
+    .Menu li::before{
+        content: '';
+        position: absolute;
+        width: 100%;
+        transform: scaleX(0);
+        height: 2.5px;
+        bottom: 10px;
+        left: 0;
+        
+        background-color: #ffffff;
+        transform-origin: bottom left;
+        transition: transform 0.25s ease-out;
+    }
+
+    .Menu li:hover::before {
+        transform: scaleX(1);
+        transform-origin: bottom left;
+    }
+
+    #search_input {
+        display: block;
+        height: 25px;
+        width: 200px;
         top: 10px;
-        left: 100px;
+        left: -40px;
 
         font-size: 32px;
     }
 
             /*Menu*/
-    #Btn {
-        font-size: 50px;
+    ul #Btn{
+        border-bottom: 0;
+        padding-bottom: 0;
     }
 
-    .Menu li {
-        padding: 16px;
-    }
 }
 
 /*2.8x maior*/
 @media (min-width: 1024px) {
-
     .btnMenu {
         width: 65px;
         padding-top: 4px;
@@ -168,14 +308,19 @@ header{
     }
 
     .search_icon {
-        width: 65px;
-        padding: 5px 20px 10px 33px;
+        width: 45px;
+        padding: 15px 20px 10px 33px;
+    }
+
+    .logo{
+        width: 300px;
     }
 
     #search_input {
-        height: 65px;
-        top: 10;
-        left: 130px;
+        height: 35px;
+        width: 300px;
+        top: 20;
+        left: 25px;
 
         font-size: 40px;
     }
@@ -186,7 +331,9 @@ header{
     }
 
     .Menu li {
-        padding: 20px;
+        font-size: 40px;
+        bottom: 90px;
+        left: 70px;
     }
 }
 
@@ -195,88 +342,82 @@ header{
 
         /*HEADER*/
     header{
-    padding-bottom: 80px;
-    border: none;
+        padding-bottom: 80px;
+        border: none;
     }
 
     .Logo {
-    position: relative;
-
-    margin-left: 0;
-    padding-top: 10px;
-    padding-left: 10px;
-    width: 400px;
-    float: left;
+        margin-left: 0;
+        padding-top: 10px;
+        padding-left: 10px;
+        width: 400px;
     }
 
     .Menu{
-    transform: translateX(0);
+        transform: translateX(0);
     }
 
     .btnMenu {
-    display: none;
+        display: none;
     }
 
     .search_icon{
-    width: 50px;
-    float: right;
-    padding: 25px 30px 30px 3px;
+        width: 50px;
+        float: right;
+        padding: 25px 30px 30px 3px;
     }
 
     #search_input {
-    position: relative;
-    float: right;
+        position: relative;
+        float: right;
 
-    font-size: 25px;
+        font-size: 25px;
 
-    height: 40px;
-    width: 300px;
+        height: 40px;
+        width: 300px;
 
-    top: 30px;
-    left: -10px;
+        top: 30px;
+        left: -10px;
 
-    display: block;
+        display: block;
     }
 
 
                 /*Menu*/
     .Menu li {
-    display: inline-block;
-    border-bottom: none;
-    background-color: none;
-    font-size: 40px;
-    word-spacing: 30px;
-    position: relative;
-    bottom: 75px;
-    left: 0px;
-
-    padding-bottom: 5px;
+        display: inline-block;
+        border-bottom: none;
+        font-size: 55px;
+        word-spacing: 30px;
+        position: relative;
+        bottom: 70px;
+        left: 100px;
     }
 
     .Menu li:hover {
-    background-color: #ffffff;
+        background-color: transparent;
     }
 
     .Menu li::before{
-    content: '';
-    position: absolute;
-    width: 100%;
-    transform: scaleX(0);
-    height: 2.5px;
-    bottom: 0;
-    left: 0;
-    
-    background-color: #000000;
-    transform-origin: bottom left;
-    transition: transform 0.25s ease-out;
+        content: '';
+        position: absolute;
+        width: 100%;
+        transform: scaleX(0);
+        height: 2.5px;
+        bottom: 0;
+        left: 0;
+        
+        background-color: #ffffff;
+        transform-origin: bottom left;
+        transition: transform 0.25s ease-out;
     }
 
     .Menu li:hover::before {
-    transform: scaleX(1);
-    transform-origin: bottom left;
+        transform: scaleX(1);
+        transform-origin: bottom left;
     }
 
     .Menu li a {
-    text-decoration: none; /*Sem underline*/
+        text-decoration: none; /*Sem underline*/
     }
 }
