@@ -12,7 +12,7 @@
         <div id="content">
             <?php
                 $data = file_get_contents("content.json");
-                $json = json_decode($data, true);
+                $json = json_decode(substr($data, 3), true);
 
                 $id = $_GET['id'];
 
