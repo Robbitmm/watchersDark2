@@ -9,7 +9,7 @@ h1{
     font-size: 25px;
 }
 
-nav{
+.title{
     padding-right: 5px;
     padding-left: 5px;
 }
@@ -46,4 +46,82 @@ a{
 
 .topic-Title{
     text-emphasis: bold;
+}
+
+@media (min-width: 480px) {
+    .movies{
+        width: 452px;
+    }
+
+    .title{
+        width: 103px;
+    }
+
+    .capa{
+        height: 160px;
+        width: 103px;
+    }
+
+    h1{
+        font-size: 30px;
+    }
+}
+
+@media (min-width: 768px) {
+    .movies{
+        width: 680px;
+    }
+
+    .title{
+        width: 150px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .capa{
+        height: 201px;
+        width: 150px;
+    }
+
+    h1{
+        font-size: 40px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .movies{
+        width: 832px;
+    }
+
+    .title{
+        width: 188px;
+    }
+
+    .capa{
+        height: 262px;
+        width: 188px;
+    }
+
+    h1{
+        font-size: 50px;
+    }
+}
+
+@media (min-width: 1280px) {
+    .movies{
+        width: 1225px;
+    }
+
+    .title{
+        width: 225px;
+    }
+
+    .capa{
+        height: 321px;
+        width: 225px;
+    }
+
+    h1{
+        font-size: 60px;
+    }
 }
