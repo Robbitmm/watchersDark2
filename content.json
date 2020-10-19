@@ -1,6 +1,126 @@
 ﻿{
     "movies": [
         {
+            "title": "Homem Formiga ea Vespa",
+            "subt": "",
+            "img": "images/Homem Formiga ea Vespa.jpg",
+            "duration": "1h 57min 51s",
+            "language": "Dublado",
+            "link": "https://drive.google.com/file/d/1Swzw13s2yNBI-0XrcBSBdCL0rowazz5N/preview?"
+        },
+        {
+            "title": "Homem de Ferro 3",
+            "subt": "",
+            "img": "images/Homem de Ferro 3.jpg",
+            "duration": "2h 10min 32s",
+            "language": "Dublado",
+            "link": "https://drive.google.com/file/d/1cevHemI6Hz18y7Y_2MoIOwiIn4ykID--/preview?"
+        },
+        {
+            "title": "Homem de Ferro 2",
+            "subt": "",
+            "img": "images/Homem de Ferro 2.jpg",
+            "duration": "2h 04min 39s",
+            "language": "Dublado",
+            "link": "https://drive.google.com/file/d/1BnwO9isI_eLYEvgLpyjZU2U0jyq-SCY1/preview?"
+        },
+        {
+            "title": "Homem de Ferro",
+            "subt": "",
+            "img": "images/Homem de Ferro.jpg",
+            "duration": "2h 06min 01s",
+            "language": "Dublado",
+            "link": "https://drive.google.com/file/d/1J1CFY7k8-7yZ-BQLzQxHXb2q1ZCIZYyS/preview?"
+        },
+        {
+            "title": "Homem Formiga",
+            "subt": "",
+            "img": "images/Homem Formiga.jpg",
+            "duration": "1h 57min 21s",
+            "language": "Dublado",
+            "link": "https://drive.google.com/file/d/19ifjdGXRUjphM_mqudT7GOjE6gKQrMwn/preview?"
+        },
+        {
+            "title": "Guardiões da Galáxia",
+            "subt": "vol. 2",
+            "img": "images/Guardiões da Galáxia 2.jpg",
+            "duration": "2h 15min 46s",
+            "language": "Dublado",
+            "link": "https://drive.google.com/file/d/1cRRbvf6SMEGoHQvnlvdVov8wO84b__X7/preview?"
+        },
+        {
+            "title": "Guardiões da Galáxia",
+            "subt": "",
+            "img": "images/Guardiões da Galáxia.jpg",
+            "duration": "2h 00min 51s",
+            "language": "Dublado",
+            "link": "https://drive.google.com/file/d/1mnXLyUUqx1dtlutHX89893pmGRv_qzXk/preview?"
+        },
+        {
+            "title": "Doutor Estranho",
+            "subt": "",
+            "img": "images/Doutor Estranho.jpg",
+            "duration": "1h 54min 58s",
+            "language": "Dublado",
+            "link": "https://drive.google.com/file/d/1TvhGunm0xEYLxcmyYmW3Z_Mk3XdHTkJ0/preview?"
+        },
+        {
+            "title": "Deadpool 2",
+            "subt": "",
+            "img": "images/Deadpool 2.jpg",
+            "duration": "1h 59min 20s",
+            "language": "Dublado",
+            "link": "https://drive.google.com/file/d/1dpxrnFj2CRYCidHB_unJ3RsyhhucVCsY/preview?"
+        },
+        {
+            "title": "Capitã Marvel",
+            "subt": "",
+            "img": "images/Capitã Marvel.jpg",
+            "duration": "2h 03min 15s",
+            "language": "Dublado",
+            "link": "https://drive.google.com/file/d/1TtHfEUg247M7MNzTGcE9EoBQS7703xqq/preview?"
+        },
+        {
+            "title": "Capitão América",
+            "subt": "Guerra Civil",
+            "img": "images/Capitão América - Guerra Civil.jpg",
+            "duration": "2h 27min 41s",
+            "language": "Dublado",
+            "link": "https://drive.google.com/file/d/1djHo3EJ-KPbkYQmxlryUNQjsRj41q_zj/preview?"
+        },
+        {
+            "title": "Capitão América 2",
+            "subt": "O soldado Invernal",
+            "img": "images/Capitão América - O soldado invernal.jpg",
+            "duration": "2h 15min 54s",
+            "language": "Dublado",
+            "link": "https://drive.google.com/file/d/1K4uIAX57iNt7HLlKQg_BaQkVOx77frne/preview?"
+        },
+        {
+            "title": "Capitão América",
+            "subt": "O primeiro Vingador",
+            "img": "images/Capitão América - Primeiro Vingador.jpg",
+            "duration": "2h 04min 11s",
+            "language": "Dublado",
+            "link": "https://drive.google.com/file/d/1rhfbatS9ZqCd8-OamRIR4B5u4I7Q3vXg/preview?"
+        },
+        {
+            "title": "Motoqueiro Fantasma",
+            "subt": "",
+            "img": "images/Motoqueiro Fantasma.jpg",
+            "duration": "2h 03min 25s",
+            "language": "Dublado",
+            "link": "https://drive.google.com/file/d/1hWh6WqSCBX9Fo-PQViKzAiRomsGBnuT6/preview?"
+        },
+        {
+            "title": "Motoqueiro Fantasma",
+            "subt": "Espírito de Vingança",
+            "img": "images/Motoqueiro Fantasma - Espírito de Vingança.jpg",
+            "duration": "1h 35min 31s",
+            "language": "Dublado",
+            "link": "https://drive.google.com/file/d/1ylvAH6qrMU7NmgzvtkZBCneuM7vmzpPd/preview?"
+        },
+        {
             "title": "Coração de Dragão",
             "subt": "",
             "img": "images/Coração de Dragão.jpg",
