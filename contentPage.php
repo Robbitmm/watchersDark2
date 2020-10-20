@@ -25,7 +25,7 @@
                 echo "<h1 class='title'>". $title. "</h1>";
                 echo "<h2>". $subt. "</h2>";
                 echo "<iframe id='ifvideo' src='$link'
-                        frameborder='0' allow='accelerometer; autoplay=1; encrypted-media; gyroscope;' allow fullscreen>
+                        frameborder='0' allow='accelerometer; autoplay=1; encrypted-media; gyroscope;' allowfullscreen>
                     </iframe>
                     <p>" . $lang . "</p>"
             ?>
