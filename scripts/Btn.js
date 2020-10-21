@@ -100,8 +100,10 @@ function rotate(){
     let iframe = document.getElementById('ifvideo');
     if(window.innerHeight == screen.height){
         iframe.classList.add('fullscreen');
+        screen.orientation.lock("landscape");
     }else{
         iframe.classList.remove('fullscreen');
+        screen.orientation.unlock();
     }
 }
 
