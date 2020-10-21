@@ -95,3 +95,15 @@ function D_button() {
         $Btn.classList.add("open");
     }
 }
+
+function Rotate(){
+    iframe = document.getElementById('ifvideo');
+    iframe.onfullscreenchange = fullscreenChangeHandler;
+}
+
+function handleFullscreenChange(event) {
+    let elem = event.target;
+    let isFullscreen = document.fullscreenElement === elem;
+  
+    adjustMyControls(isFullscreen);
+  }
