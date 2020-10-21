@@ -52,7 +52,7 @@ p{
     padding-left: 550px;
 }
 
-@media (orientation: portrait){
+@media (orientation: landscape){
     iframe .fullscreen{
         -webkit-transform: rotate(-90deg);
         -moz-transform: rotate(-90deg);
