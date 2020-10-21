@@ -106,4 +106,9 @@ function handleFullscreenChange(event) {
     let isFullscreen = document.fullscreenElement === elem;
   
     adjustMyControls(isFullscreen);
-  }
+}
+
+function adjustMyControls(orientation){
+    console.log(typeof(orientation));
+}
+
