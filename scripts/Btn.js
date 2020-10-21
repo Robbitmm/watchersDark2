@@ -96,3 +96,12 @@ function D_button() {
     }
 }
 
+function rotate(){
+    let iframe = document.getElementById('ifvideo');
+    if(window.innerHeight == screen.height){
+        iframe.classList.add('fullscreen');
+    }else{
+        iframe.classList.remove('fullscreen');
+    }
+}
+
