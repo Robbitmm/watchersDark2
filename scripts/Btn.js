@@ -96,23 +96,3 @@ function D_button() {
     }
 }
 
-function Rotate(){
-    iframe = document.getElementById('ifvideo');
-    iframe.onfullscreenchange = fullscreenChangeHandler;
-}
-
-function handleFullscreenChange(event) {
-    let elem = event.target;
-    let isFullscreen = document.fullscreenElement === elem;
-  
-    adjustMyControls(isFullscreen);
-}
-
-function adjustMyControls(orientation){
-    let iframe = document.getElementById('ifvideo');
-
-    if(orientation){
-        iframe.style.transform = 'rotate(90deg)';
-    }
-}
-
