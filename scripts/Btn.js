@@ -109,6 +109,10 @@ function handleFullscreenChange(event) {
 }
 
 function adjustMyControls(orientation){
-    console.log(typeof(orientation));
+    let iframe = document.getElementById('ifvideo');
+
+    if(orientation){
+        iframe.style.transform = 'rotate(90deg)';
+    }
 }
 
