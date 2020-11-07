@@ -72,6 +72,12 @@ a{
     h1{
         font-size: 30px;
     }
+
+    .oscar{
+        transform: scale(0.08);
+        bottom: -76px;
+        left: -82px;
+    }
 }
 
 @media (min-width: 768px) {
@@ -93,6 +99,12 @@ a{
     h1{
         font-size: 40px;
     }
+
+    .oscar{
+        transform: scale(0.1);
+        bottom: -40px;
+        left: -75px;
+    }
 }
 
 @media (min-width: 1024px) {
@@ -111,6 +123,12 @@ a{
 
     h1{
         font-size: 50px;
+    }
+
+    .oscar{
+        transform: scale(0.15);
+        bottom: 10px;
+        left: -70px;
     }
 }
 
@@ -131,5 +149,11 @@ a{
 
     h1{
         font-size: 60px;
+    }
+
+    .oscar{
+        transform: scale(0.18);
+        bottom: 65px;
+        left: -65px;
     }
 }
