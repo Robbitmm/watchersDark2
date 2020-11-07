@@ -50,9 +50,9 @@ a{
 
 .oscar{
     position: absolute;
-    transform: scale(0.1);
-    bottom: -105px;
-    left: -80px;
+    transform: scale(0.05);
+    bottom: -95px;
+    left: -85px;
 }
 
 @media (min-width: 480px) {
