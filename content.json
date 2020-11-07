@@ -6,6 +6,7 @@
             "img": "images/1917.jpg",
             "duration": "1h 58min 58s",
             "language": "Dublado",
+            "oscar": 1,
             "link": "https://drive.google.com/file/d/1bXsKuR6dP1aDMnmzV2JKqsDcFdwzHkYj/preview?"
         },
 	{
@@ -14,6 +15,7 @@
             "img": "images/Coringa.jpg",
             "duration": "2h 01min 48s",
             "language": "Dublado",
+            "oscar": 1,
             "link": "https://drive.google.com/file/d/1U_bf_NKAmVuEjyefkL3toJp2Sd9ifT4U/preview?"
         },
         {
@@ -22,6 +24,7 @@
             "img": "images/Carros.jpg",
             "duration": "1h 56min 30s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/14JohNtRc65LrmzhOnt04cE6dAbZSUZ_e/preview?"
         },
         {
@@ -30,6 +33,7 @@
             "img": "images/Carros 2.jpg",
             "duration": "1h 47min 01s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/1E-gsLw9q4AaYLjQ8F68T0BI3Gk8NpOL3/preview?"
         },
 	{
@@ -38,6 +42,7 @@
             "img": "images/Carros 3.jpg",
             "duration": "1h 42min 23s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/1EP3CdS6x_XCxIox0yhYfSqUk4l_322MV/preview?"
         },
 	{
@@ -46,6 +51,7 @@
             "img": "images/Eu Robô.jpg",
             "duration": "1h 54min 45s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/1fAh6kYq6k8AaWvp02u4Bfbopc_vRFWl_/preview?"
         },
         {
@@ -54,6 +60,7 @@
             "img": "images/Pantera Negra.jpg",
             "duration": "2h 14min 33s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/1B2KepScP2w69N6Sdq2cmsZ3qY3tAaK2W/preview?"
         },
         {
@@ -62,6 +69,7 @@
             "img": "images/Vingadores - Ultimato.jpg",
             "duration": "3h 01min 11s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/1_fwv-3_36prytQxOza7NnIsa9q27UlE5/preview?"
         },
         {
@@ -70,6 +78,7 @@
             "img": "images/Vingadores - Guerra Infinita.jpg",
             "duration": "2h 29min 21s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/1C-TwaeYv27DMlXri7kMYD7Jlp7Xn3lpZ/preview?"
         },
         {
@@ -78,6 +87,7 @@
             "img": "images/Vingadores - Era de Ultron.jpg",
             "duration": "2h 21min 17s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/1usra95YmdJZ8gU8v1xOpufCG1IAhrn32/preview?"
         },
         {
@@ -86,6 +96,7 @@
             "img": "images/Vingadores.jpg",
             "duration": "2h 22min 55s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/1x8vggp1DE_AY1tOhcmSNRtdHSHAKMm3_/preview?"
         },
         {
@@ -94,6 +105,7 @@
             "img": "images/Thor.jpg",
             "duration": "1h 54min 50s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/1Cr4CXxDQna7hY9noRUiLu5n_WSXHZjUh/preview?"
         },
         {
@@ -102,6 +114,7 @@
             "img": "images/Venom.jpg",
             "duration": "1h 52min 08s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/1kVujrzD-IS95h05KvTfK1YsQF5qVIbUK/preview?"
         },
         {
@@ -110,6 +123,7 @@
             "img": "images/Homem Formiga ea Vespa.jpg",
             "duration": "1h 57min 51s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/1Swzw13s2yNBI-0XrcBSBdCL0rowazz5N/preview?"
         },
         {
@@ -118,6 +132,7 @@
             "img": "images/Homem de Ferro 3.jpg",
             "duration": "2h 10min 32s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/1cevHemI6Hz18y7Y_2MoIOwiIn4ykID--/preview?"
         },
         {
@@ -126,6 +141,7 @@
             "img": "images/Homem de Ferro 2.jpg",
             "duration": "2h 04min 39s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/1BnwO9isI_eLYEvgLpyjZU2U0jyq-SCY1/preview?"
         },
         {
@@ -134,6 +150,7 @@
             "img": "images/Homem de Ferro.jpg",
             "duration": "2h 06min 01s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/1J1CFY7k8-7yZ-BQLzQxHXb2q1ZCIZYyS/preview?"
         },
         {
@@ -142,6 +159,7 @@
             "img": "images/Homem Formiga.jpg",
             "duration": "1h 57min 21s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/19ifjdGXRUjphM_mqudT7GOjE6gKQrMwn/preview?"
         },
         {
@@ -150,6 +168,7 @@
             "img": "images/Guardiões da Galáxia 2.jpg",
             "duration": "2h 15min 46s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/1cRRbvf6SMEGoHQvnlvdVov8wO84b__X7/preview?"
         },
         {
@@ -158,6 +177,7 @@
             "img": "images/Guardiões da Galáxia.jpg",
             "duration": "2h 00min 51s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/1mnXLyUUqx1dtlutHX89893pmGRv_qzXk/preview?"
         },
         {
@@ -166,6 +186,7 @@
             "img": "images/Doutor Estranho.jpg",
             "duration": "1h 54min 58s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/1TvhGunm0xEYLxcmyYmW3Z_Mk3XdHTkJ0/preview?"
         },
         {
@@ -174,6 +195,7 @@
             "img": "images/Deadpool 2.jpg",
             "duration": "1h 59min 20s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/1dpxrnFj2CRYCidHB_unJ3RsyhhucVCsY/preview?"
         },
         {
@@ -182,6 +204,7 @@
             "img": "images/Capitã Marvel.jpg",
             "duration": "2h 03min 15s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/1TtHfEUg247M7MNzTGcE9EoBQS7703xqq/preview?"
         },
         {
@@ -190,6 +213,7 @@
             "img": "images/Capitão América - Guerra Civil.jpg",
             "duration": "2h 27min 41s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/1djHo3EJ-KPbkYQmxlryUNQjsRj41q_zj/preview?"
         },
         {
@@ -198,6 +222,7 @@
             "img": "images/Capitão América - O soldado invernal.jpg",
             "duration": "2h 15min 54s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/1K4uIAX57iNt7HLlKQg_BaQkVOx77frne/preview?"
         },
         {
@@ -206,6 +231,7 @@
             "img": "images/Capitão América - Primeiro vingador.jpg",
             "duration": "2h 04min 11s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/1rhfbatS9ZqCd8-OamRIR4B5u4I7Q3vXg/preview?"
         },
 	{
@@ -214,6 +240,7 @@
             "img": "images/Um dia.jpg",
             "duration": "1h 47min 28s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/1xhnYwg-b087ryv6y-2af2wzY-zNZ5gH6/preview?"
         },
         {
@@ -222,6 +249,7 @@
             "img": "images/Truque de Mestre.jpg",
             "duration": "1h 55min 23s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/1D6W3W60mPvxjZXaoyHfCMyR8Hvl1hyO0/preview?"
         },
         {
@@ -230,6 +258,7 @@
             "img": "images/Motoqueiro Fantasma.jpg",
             "duration": "2h 03min 25s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/1hWh6WqSCBX9Fo-PQViKzAiRomsGBnuT6/preview?"
         },
         {
@@ -238,6 +267,7 @@
             "img": "images/Motoqueiro Fantasma - Espírito de Vingança.jpg",
             "duration": "1h 35min 31s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/1ylvAH6qrMU7NmgzvtkZBCneuM7vmzpPd/preview?"
         },
         {
@@ -246,6 +276,7 @@
             "img": "images/Coração de Dragão.jpg",
             "duration": "1h 36min 53s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/17fU28vg0-JlsY7YP24OPPMgbbssui10k/preview?"
         },
         {
@@ -254,6 +285,7 @@
             "img": "images/V de vingança.jpg",
             "duration": "2h 12min 32s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/16aT7z7ZW4ALDfijOLAE_PeCdhQP9Rgbj/preview?"
         },
         {
@@ -262,6 +294,7 @@
             "img": "images/Super herói o filme.jpg",
             "duration": "1h 22min 22s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/1FmwPXizNYqkjn3nHRoK1z0s7qTLC39I2/preview?"
         },
         {
@@ -270,6 +303,7 @@
             "img": "images/Invasores.jpg",
             "duration": "1h 41min 47s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/1-Yr6o4jL534iM17XIlCz0YR30gerh9Tb/preview?"
         },
         {
@@ -278,6 +312,7 @@
             "img": "images/Quebrando a banca.jpg",
             "duration": "2h 02min 35s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/1xEl8yO3OtdB_D9Yp-IT5gxZqbc8qa4c9/preview?"
         },
         {
@@ -286,6 +321,7 @@
             "img": "images/Anjos da lei.jpg",
             "duration": "1h 49min 37s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/1v759Be-kbjBAnkSCFyU545O9CwDfXioZ/preview?"
         },
         {
@@ -294,6 +330,7 @@
             "img": "images/Anjos da lei 2.jpg",
             "duration": "1h 51min 57s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/17T4zUrgXJ3LZhU-aqier1HyvhXPWx4en/preview?"
         },
         {
@@ -302,6 +339,7 @@
             "img": "images/Aranhaverso.jpg",
             "duration": "1h 57min 00s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/1i7O6JouD0GarnVdcGSCQn7Xe0OzFuqG8/preview?"
         },
         {
@@ -310,6 +348,7 @@
             "img": "images/Robos.jpg",
             "duration": "1h 29min 48s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/11nSy0vsX6Vtkzx1YJBgiSFRauARhjNfQ/preview?"
         },
         {
@@ -318,6 +357,7 @@
             "img": "images/Jogador-n1.jpg",
             "duration": "2h 19min 55s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/1ZIr9fdTXOSncCbmAo1KVCp08ALmlPkwd/preview?"
         },
         {
@@ -326,6 +366,7 @@
             "img": "images/Red.jpg",
             "duration": "1h 51min 09s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://mega.nz/embed#!9sgViTxQ!-9nP2FpXvwXyjtRd5-o2OFGYqFergqHS_P2akDLYRew"
         },
         {
@@ -334,6 +375,7 @@
             "img": "images/Red2.jpg",
             "duration": "1h 55min 49s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/1VmXMsRKlYB8xT9wZVF-sjmTNpz1xVsnW/preview?"
         },
         {
@@ -342,6 +384,7 @@
             "img": "images/Rei-Arthur.jpg",
             "duration": "2h 6min 13s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/1OL-d0AVoagXJgHZ0Uyz2-gXblAAkJUBW/preview?"
         },
         {
@@ -350,6 +393,7 @@
             "img": "images/Thor-Ragnarok.jpg",
             "duration": "2h 10min 30s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/1NV1CoCLS7bZ2LENeW31wpmr4JYr8GQBQ/preview?"
         },
         {
@@ -358,6 +402,7 @@
             "img": "images/Batman - O cavaleiro das trevas.jpg",
             "duration": "2h 32min 13s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://mega.nz/embed#!NoYFyQiJ!BRHZUA3psQotFS6vQ0A4EfBXb6MGYMk-aPlRb3Bnq_8"
         },
         {
@@ -366,6 +411,7 @@
             "img": "images/Batman - A piada mortal.jpg",
             "duration": "1h 45min",
             "language": "Legendado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/1akQzQCS9CzrqOoQA0-pBKCyys3ujICDq/preview?texttrack=pt-br"
         },
         {
@@ -374,6 +420,7 @@
             "img": "images/Como treinar seu Dragão 3.jpg",
             "duration": "1h 44min 06s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://mega.nz/embed#!Q4RXEAKC!u5-rrIJQMlQgIusJLR5DEOM-k1MB8gFBDtGsMBkfLXs"
         },
         {
@@ -382,6 +429,7 @@
             "img": "images/Deadpool.jpg",
             "duration": "1h 48min 06s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://mega.nz/embed#!swRXSQCZ!kEZe9DhUeiJqqb4vmwLC1Um_N0j4JnnEGmsoqf1-xik"
         },
         {
@@ -390,6 +438,7 @@
             "img": "images/Contratempo.jpg",
             "duration": "1h 48min 06s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/1zQIf9GswOkNQzD6x7TStxwNO9cEbENUL/preview?start=5"
         },
         {
@@ -398,6 +447,7 @@
             "img": "images/Se beber nao case.jpg",
             "duration": "1h 39min 45s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/19tPeYxAu3OufxXD8imZheTcicvByaEg2/preview?"
         },
         {
@@ -406,6 +456,7 @@
             "img": "images/Se beber nao case 2.jpg",
             "duration": "1h 41min 49s",
             "language": "Dublado*",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/1iJk7uEQvZYn2yXwo-qmtTQuPT9aM5TiI/preview?"
         },
         {
@@ -414,6 +465,7 @@
             "img": "images/Se beber nao case 3.jpg",
             "duration": "1h 40min 08s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/1O8SWSqrm4N6EROJaxQ0B8inttHTqmu6J/preview?"
         },
         {
@@ -422,6 +474,7 @@
             "img": "images/Indiana Jones e os caçadores da arca perdida.jpg",
             "duration": "1h 55min 18s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://mega.nz/embed#!Aho1DQ5T!oWcXHfM3-AhKi6QaGYPMvsC5fEJxsPEXeSK1n-NzcUE"
         },
         {
@@ -430,6 +483,7 @@
             "img": "images/Indiana Jones e o templo perdido.jpg",
             "duration": "1h 58min 28s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://mega.nz/embed#!t4BVia5Y!NW6aFyz2BTeMCzdq2eK9DApqXssshh1QxuUhHdpy59g"
         },
         {
@@ -438,6 +492,7 @@
             "img": "images/Indiana Jones e a ultima cruzada.jpg",
             "duration": "2h 06min 53s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://mega.nz/embed#!o5IXGQqA!HYj1dFrEPf9SWMyiNAhiX1yAoy0vWAxrCdCVN3ZYqlQ"
         },
         {
@@ -446,6 +501,7 @@
             "img": "images/homem aranha de volta ao lar.jpg",
             "duration": "2h 13min 28s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://mega.nz/embed#!o8YVgKZA!G9F4zKb4lH2RMl-v4SFHLubCsv8JnW_39SBoPMOd1CM"
         },
         {
@@ -454,6 +510,7 @@
             "img": "images/homem aranha longe de casa.jpg",
             "duration": "2h 09min 23s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://mega.nz/embed#!dpphVYbD!Pdj24MQ4oG7b-QPJYmft0ZIK3Vp84uHbXP97V2Mesl0"
         },
         {
@@ -462,6 +519,7 @@
             "img": "images/familia do bagulho.jpg",
             "duration": "1h 49min 54s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/1AXWzhrmNnJ_K4K_2dcSiYGz54sUl4bh6/preview?"
         },
         {
@@ -470,6 +528,7 @@
             "img": "images/Duro de matar 4.0.jpg",
             "duration": "2h 8min 45s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/10HFq3whK3nOA-CH2aD0ksOuMmX3YwQJW/preview?"
         },
         {
@@ -478,6 +537,7 @@
             "img": "images/Sniper americano.jpg",
             "duration": "2h 12min 40s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/1k2Qo70HinExitbsXJWNo0TE0kalLziFE/preview?"
         },
         {
@@ -486,6 +546,7 @@
             "img": "images/A noiva cadaver.jpg",
             "duration": "1h 17min 11s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/1VVxLlnuPsBSZtNo49AFBmF--bDtII8aI/preview?"
         },
         {
@@ -494,6 +555,7 @@
             "img": "images/A onda.jpg",
             "duration": "1h 46min 43s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/1FvCrc_8oL4LCd9eHMYnjaIy0pr-yq-zx/preview?"
         },
         {
@@ -502,6 +564,7 @@
             "img": "images/Parasita.jpg",
             "duration": "2h 12min",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/1xxRaK6NtHz_-6cEabor5IgksXMxuwfeu/preview?"
         },
         {
@@ -510,6 +573,7 @@
             "img": "images/Top-Gun.jpg",
             "duration": "1h 22min 22s",
             "language": "Dublado",
+            "oscar": 0,
             "link": "https://drive.google.com/file/d/1qOJpFjuBGaYKXnwV1bO3utfaieBNznxD/preview?"
         }
     ]

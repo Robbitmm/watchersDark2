@@ -48,6 +48,13 @@ a{
     text-emphasis: bold;
 }
 
+.oscar{
+    position: absolute;
+    transform: scale(0.1);
+    bottom: -105px;
+    left: -80px;
+}
+
 @media (min-width: 480px) {
     .movies{
         width: 452px;

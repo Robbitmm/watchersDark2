@@ -23,18 +23,24 @@
             $img = $movie['img'];
             $time = $movie['duration'];
             $language = $movie['language'];
+            $oscar = $movie['oscar'];
             $link = "contentPage.php?id=$i";
 
             $outout .= "<nav class='title'>";
             $outout .= "<a href='$link'>";
+            
+            if($oscar === 1){
+                $outout .= "<img class='oscar' src='images/Oscar.png'>";
+            }
+
             $outout .= "<img class='capa' src='$img'>";
-            $outout .= "<ul class='info'>";
+            /*$outout .= "<ul class='info'>";
             $outout .= "<li class='topic-Title'>".$title."<li>";
             $outout .= "<li class='topic-Subtitle'>".$subt."</li>";
             $outout .= "<li class='topic'>".$time."<li>";
-            $outout .= "<li class='topic'>".$language."</li>";
-            $outout .= "        </ul>
-                        </a>
+            $outout .= "<li class='topic'>".$language."</li>";*/
+            $outout .= /*"        </ul>*/
+                        "</a>
                     </nav>";
             $i++;
         }
