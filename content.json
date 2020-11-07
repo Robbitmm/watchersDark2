@@ -1,6 +1,22 @@
 ﻿{
     "movies": [
 	{
+            "title": "1917",
+            "subt": "",
+            "img": "images/1917.jpg",
+            "duration": "1h 58min 58s",
+            "language": "Dublado",
+            "link": "https://drive.google.com/file/d/1bXsKuR6dP1aDMnmzV2JKqsDcFdwzHkYj/preview?"
+        },
+	{
+            "title": "Coringa",
+            "subt": "",
+            "img": "images/Coringa.jpg",
+            "duration": "2h 01min 48s",
+            "language": "Dublado",
+            "link": "https://drive.google.com/file/d/1U_bf_NKAmVuEjyefkL3toJp2Sd9ifT4U/preview?"
+        },
+	{
             "title": "Eu Robô",
             "subt": "",
             "img": "images/Eu Robô.jpg",
