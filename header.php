@@ -3,6 +3,7 @@
         <meta name="viewport" content="width=device-width, inicial-scale=1.0">
         <script src="scripts/Btn.js"></script>
 
+        <link rel="icon" href="images\header\Logo.png" type="image/png type">
         <link rel="stylesheet" href="styles/header.css"/>
 
         <title>Home - Watchers</title>

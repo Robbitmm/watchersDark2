@@ -1,6 +1,24 @@
 ﻿{
     "movies": [
 	{
+            "title": "Sinais",
+            "subt": "",
+            "img": "images/Sinais.jpg",
+            "duration": "1h 46min 30s",
+            "language": "Dublado",
+            "oscar": 0,
+            "link": "https://drive.google.com/file/d/1t-T9r2zKdmkgI7_S-LLBwgkls32X9kWv/preview?"
+        },
+	{
+            "title": "Coraline",
+            "subt": "e o mundo secreto",
+            "img": "images/Coraline e o mundo secreto.jpg",
+            "duration": "1h 40min 32s",
+            "language": "Dublado",
+            "oscar": 0,
+            "link": "https://drive.google.com/file/d/1pIcjPTNc2BZWFCQ7AJQBnpOQMZGCWSZa/preview?"
+        },
+	{
             "title": "1917",
             "subt": "",
             "img": "images/1917.jpg",

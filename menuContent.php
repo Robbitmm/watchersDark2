@@ -10,7 +10,7 @@
         //https://stackoverflow.com/questions/689185/json-decode-returns-null-after-webservice-call
 
         $json = json_decode(substr($data, 3), true);
-        $i = 0;
+        $i = count($json['movies']) - 1;
 
         $outout = "<div class='movies'>
                     <a name='movies'>
@@ -42,7 +42,7 @@
             $outout .= /*"        </ul>*/
                         "</a>
                     </nav>";
-            $i++;
+            $i--;
         }
 
         $outout .= "</div>";
