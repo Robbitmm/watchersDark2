@@ -1,6 +1,15 @@
 ﻿{
     "movies": [
 	{
+            "title": "Fragmentado",
+            "subt": "",
+            "img": "images/Fragmentado.jpg",
+            "duration": "1h 57min 07s",
+            "language": "Dublado",
+            "oscar": 0,
+            "link": "https://drive.google.com/file/d/1vINfcbS7c6pQheVjlLG-mODOtKuH1VVp/preview?"
+        },
+	{
             "title": "Sinais",
             "subt": "",
             "img": "images/Sinais.jpg",
