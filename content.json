@@ -1,6 +1,15 @@
 ﻿{
     "movies": [
 	{
+            "title": "Tá dando onda",
+            "subt": "",
+            "img": "images/Ta dando onda.jpg",
+            "duration": "1h 25min 30s",
+            "language": "Dublado",
+            "oscar": 0,
+            "link": "https://drive.google.com/file/d/1f_-iTWjxYYwfbRbewIXuvWilGG8kKlUO/preview?"
+        },	
+	{
             "title": "Fragmentado",
             "subt": "",
             "img": "images/Fragmentado.jpg",
