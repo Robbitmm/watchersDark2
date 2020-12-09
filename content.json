@@ -1,6 +1,15 @@
 ﻿{
     "movies": [
 	{
+            "title": "Walt antes do Mickey",
+            "subt": "",
+            "img": "images/Walt antes do Mickey.jpg",
+            "duration": "1h 46min 31s",
+            "language": "Dublado",
+            "oscar": 0,
+            "link": "https://drive.google.com/file/d/1N5EJUq07gMO0lxxX507Tn8Imvb9eG4Lp/preview?"
+        },
+	{
             "title": "Tá dando onda",
             "subt": "",
             "img": "images/Ta dando onda.jpg",
