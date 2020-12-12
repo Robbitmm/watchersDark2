@@ -1,6 +1,6 @@
 ﻿{
     "movies": [
-	{
+	    {
             "title": "Até o último homem",
             "subt": "",
             "img": "images/Ate o ultimo homem.jpg",
@@ -9,7 +9,7 @@
             "oscar": 0,
             "link": "https://drive.google.com/file/d/1ASRiPPjewlQsPLujt2qQ6CoAMdKuvrXK/preview?"
         },
-	{
+	    {
             "title": "John Wick",
             "subt": "Um novo dia para matar",
             "img": "images/John wick.jpg",
@@ -18,16 +18,7 @@
             "oscar": 0,
             "link": "https://drive.google.com/file/d/1eCDbwBb3pMVSS2oOZOgH6qOtVmPLBgbw/preview?"
         },
-	{
-            "title": "O lobo de Wall street",
-            "subt": "",
-            "img": "images/O lobo de Wall street.jpg",
-            "duration": "2h 59min 52s",
-            "language": "Dublado",
-            "oscar": 0,
-            "link": "https://drive.google.com/file/d/1aWc2emdWMjK83VSRCUUZJqpro8pO2qKe/preview?"
-        },
-	{
+	    {
             "title": "Walt antes do Mickey",
             "subt": "",
             "img": "images/Walt antes do Mickey.jpg",
@@ -36,7 +27,7 @@
             "oscar": 0,
             "link": "https://drive.google.com/file/d/1N5EJUq07gMO0lxxX507Tn8Imvb9eG4Lp/preview?"
         },
-	{
+	    {
             "title": "Tá dando onda",
             "subt": "",
             "img": "images/Ta dando onda.jpg",
@@ -45,7 +36,7 @@
             "oscar": 0,
             "link": "https://drive.google.com/file/d/1f_-iTWjxYYwfbRbewIXuvWilGG8kKlUO/preview?"
         },	
-	{
+	    {
             "title": "Fragmentado",
             "subt": "",
             "img": "images/Fragmentado.jpg",
@@ -54,7 +45,7 @@
             "oscar": 0,
             "link": "https://drive.google.com/file/d/1vINfcbS7c6pQheVjlLG-mODOtKuH1VVp/preview?"
         },
-	{
+	    {
             "title": "Sinais",
             "subt": "",
             "img": "images/Sinais.jpg",
@@ -63,7 +54,7 @@
             "oscar": 0,
             "link": "https://drive.google.com/file/d/1t-T9r2zKdmkgI7_S-LLBwgkls32X9kWv/preview?"
         },
-	{
+	    {
             "title": "Coraline",
             "subt": "e o mundo secreto",
             "img": "images/Coraline e o mundo secreto.jpg",
@@ -72,7 +63,7 @@
             "oscar": 0,
             "link": "https://drive.google.com/file/d/1pIcjPTNc2BZWFCQ7AJQBnpOQMZGCWSZa/preview?"
         },
-	{
+	    {
             "title": "1917",
             "subt": "",
             "img": "images/1917.jpg",
@@ -81,7 +72,7 @@
             "oscar": 1,
             "link": "https://drive.google.com/file/d/1bXsKuR6dP1aDMnmzV2JKqsDcFdwzHkYj/preview?"
         },
-	{
+	    {
             "title": "Coringa",
             "subt": "",
             "img": "images/Coringa.jpg",
