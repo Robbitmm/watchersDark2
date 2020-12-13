@@ -2,7 +2,8 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, inicial-scale=1.0">
-        <link rel="icon" href="images\header\Logo.png" type="image/png type">
+
+        <link rel="stylesheet" href="styles/page.css">
     </head>
 
     <body>
@@ -12,7 +13,12 @@
         
         <div id="content">
             <?php
-                include_once('menuContent.php');
+                //if(isset($_POST['s'])){
+                 //   include_once('searchContent.php');
+                //}    
+                //else{
+                    include_once('menuContent.php');
+                //}
             ?>
         </div>
     </body>
