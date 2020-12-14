@@ -82,15 +82,6 @@
             "link": "https://drive.google.com/file/d/1U_bf_NKAmVuEjyefkL3toJp2Sd9ifT4U/preview?"
         },
         {
-            "title": "Carros",
-            "subt": "",
-            "img": "images/Carros.jpg",
-            "duration": "1h 56min 30s",
-            "language": "Dublado",
-            "oscar": 0,
-            "link": "https://drive.google.com/file/d/14JohNtRc65LrmzhOnt04cE6dAbZSUZ_e/preview?"
-        },
-        {
             "title": "Carros 2",
             "subt": "",
             "img": "images/Carros 2.jpg",
@@ -496,15 +487,6 @@
             "link": "https://mega.nz/embed#!swRXSQCZ!kEZe9DhUeiJqqb4vmwLC1Um_N0j4JnnEGmsoqf1-xik"
         },
         {
-            "title": "Um Contratempo",
-            "subt": "",
-            "img": "images/Contratempo.jpg",
-            "duration": "1h 48min 06s",
-            "language": "Dublado",
-            "oscar": 0,
-            "link": "https://drive.google.com/file/d/1zQIf9GswOkNQzD6x7TStxwNO9cEbENUL/preview?start=5"
-        },
-        {
             "title": "Se beber não case",
             "subt": "",
             "img": "images/Se beber nao case.jpg",
@@ -550,7 +532,7 @@
             "link": "https://mega.nz/embed#!t4BVia5Y!NW6aFyz2BTeMCzdq2eK9DApqXssshh1QxuUhHdpy59g"
         },
         {
-            "title": "ndiana Jones",
+            "title": "Indiana Jones",
             "subt": "e a última cruzada",
             "img": "images/Indiana Jones e a ultima cruzada.jpg",
             "duration": "2h 06min 53s",
