@@ -47,29 +47,31 @@ function Condition_search() {
 
 
 function Open_Search() {
-    var $OpenMenu = document.getElementById("search_input");
-    var $CloseBtn = document.getElementById("BtnMenu");
-    var $CloseLogo = document.getElementById("logo");
+    var $OpenMenu = document.getElementById("search_input"),
+        $CloseBtn = document.getElementById("BtnMenu"),
+        $CloseLogo = document.getElementById("logo");
 
     $OpenMenu.classList.remove("close");
     $OpenMenu.classList.add("open");
 
     $OpenMenu.style.display = 'block';
+    $OpenMenu.focus();
 
     $CloseBtn.style.display = 'none';
     $CloseLogo.style.opacity = '0';
 }
 
 function Close_Search() {
-    var $OpenMenu = document.getElementById("search_input");
-    var $CloseBtn = document.getElementById("BtnMenu");
-    var $ShowLogo = document.getElementById("logo");
+    var $OpenMenu = document.getElementById("search_input"),
+        $CloseBtn = document.getElementById("BtnMenu"),
+    	$ShowLogo = document.getElementById("logo");
 
     if (window.screen.width < 1280) {
         $OpenMenu.classList.remove("open");
         $OpenMenu.classList.add("close");
 
         $OpenMenu.style.display = 'none';
+        $OpenMenu.blur();
 
         $CloseBtn.style.display = 'block';
         $ShowLogo.style.opacity = '100';
