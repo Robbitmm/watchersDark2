@@ -112,9 +112,17 @@ function rotate(){
 
 $(document).ready(function(){
     $('#search_input').keydown(function(){
-        $.getJSON('content.json', function(data){
-            var search = $('#search_input').val(),
-                regexp = new RegExp(search, "i"),
+        var search = $('#search_input').val(),
+            file;
+
+        if(search == "segredos" || search == "megalodon"){
+            file = "secrets.json";
+        }else{
+            file = "content.json";
+        }
+
+        $.getJSON(file, function(data){
+            var regexp = new RegExp(search, "i"),
                 link = "contentPage.php?id=",
                 output;
             output = "<div class='movies'>"
@@ -128,6 +136,14 @@ $(document).ready(function(){
 
                     if((val[i].title.search(regexp) != -1) || (val[i].subt.search(regexp) != -1)){
                         //output += "<p>" + val[i].title + ":" + val[i].subt + "</p>";
+
+                        output += "<nav class='title'>";
+                        output += "<a href='"+ link + id +"'>";
+                        output += "<img class='capa' src='"+ val[i].img + "'>";
+                        output += "</a></nav>"
+
+                    }else if(file == "secrets.json"){
+                        var link = "contentPage.php?secrets=";
 
                         output += "<nav class='title'>";
                         output += "<a href='"+ link + id +"'>";
