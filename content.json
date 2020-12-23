@@ -1,15 +1,26 @@
 ﻿{
     "movies": [
-	    {
+	{
+            "title": "Amantes eternos",
+            "subt": "",
+            "img": "images/Amantes eternos.jpg",
+            "duration": "2h 03min 20s",
+            "language": "Dublado",
+            "oscar": 0,
+	    "gender": ["drama", "romance"],
+            "link": "https://drive.google.com/file/d/1x0sm5ZkuXAfJlAxLIkO2OaMapRLBJyIp/preview?autoplay=1"
+        },
+	{
             "title": "Até o último homem",
             "subt": "",
             "img": "images/Ate o ultimo homem.jpg",
             "duration": "2h 19min 19s",
             "language": "Dublado",
             "oscar": 0,
+	    "gender": ["drama"],
             "link": "https://drive.google.com/file/d/1ASRiPPjewlQsPLujt2qQ6CoAMdKuvrXK/preview?"
         },
-	    {
+	{
             "title": "John Wick",
             "subt": "Um novo dia para matar",
             "img": "images/John wick.jpg",
