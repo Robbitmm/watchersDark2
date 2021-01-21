@@ -1,5 +1,15 @@
 ﻿{
     "movies": [
+        {
+            "title": "Mad Max",
+            "subt": "Estrada da fúria",
+            "img": "images/Mad Max - Estrada da Furia.jpg",
+            "duration": "2h 00min 00s",
+            "language": "Dublado",
+            "oscar": 0,
+            "gender": ["ação", "ficção científica"],
+            "link": "https://drive.google.com/file/d/1An6m_LcEWi-nQfPn1tZH-YlNbO3wd3AI/preview?"
+        },
 	{
             "title": "Nasce uma estrela",
             "subt": "",
@@ -7,50 +17,50 @@
             "duration": "2h 15min 45s",
             "language": "Dublado",
             "oscar": 0,
-	        "gender": ["drama", "musical", "romance"],
+            "gender": ["drama", "musical", "romance"],
             "link": "https://drive.google.com/file/d/1w8OjiVmusMfj6RfmM9XREp4dINq0FBE9/preview?"
         },
-	{
+        {
             "title": "Grandes olhos",
             "subt": "",
             "img": "images/Grandes olhos.jpg",
             "duration": "1h 45min 44s",
             "language": "Dublado",
             "oscar": 0,
-	        "gender": ["drama", "biografia", "comédia"],
+            "gender": ["drama", "biografia", "comédia"],
             "link": "https://drive.google.com/file/d/1NiHe2wXRV45f3qpehm-SGYQyN-HhKWRS/preview?"
         },
-	{
+        {
             "title": "As sufragistas",
             "subt": "",
             "img": "images/As sufragistas.jpg",
             "duration": "1h 46min 33s",
             "language": "Dublado",
             "oscar": 0,
-	        "gender": ["drama", "história"],
+            "gender": ["drama", "história"],
             "link": "https://drive.google.com/file/d/1x0sm5ZkuXAfJlAxLIkO2OaMapRLBJyIp/preview?autoplay=1"
         },
-	    {
+        {
             "title": "Amantes eternos",
             "subt": "",
             "img": "images/Amantes eternos.jpg",
             "duration": "2h 03min 20s",
             "language": "Dublado",
             "oscar": 0,
-	        "gender": ["drama", "romance"],
+            "gender": ["drama", "romance"],
             "link": "https://drive.google.com/file/d/1x0sm5ZkuXAfJlAxLIkO2OaMapRLBJyIp/preview?autoplay=1"
         },
-	    {
+        {
             "title": "Até o último homem",
             "subt": "",
             "img": "images/Ate o ultimo homem.jpg",
             "duration": "2h 19min 19s",
             "language": "Dublado",
             "oscar": 0,
-	        "gender": ["drama", "biografia"],
+            "gender": ["drama", "biografia"],
             "link": "https://drive.google.com/file/d/1ASRiPPjewlQsPLujt2qQ6CoAMdKuvrXK/preview?"
         },
-	    {
+        {
             "title": "John Wick",
             "subt": "Um novo dia para matar",
             "img": "images/John wick.jpg",
@@ -60,7 +70,7 @@
             "gender": ["ação"],
             "link": "https://drive.google.com/file/d/1eCDbwBb3pMVSS2oOZOgH6qOtVmPLBgbw/preview?"
         },
-	    {
+        {
             "title": "Walt antes do Mickey",
             "subt": "",
             "img": "images/Walt antes do Mickey.jpg",
@@ -70,7 +80,7 @@
             "gender": ["biografia", "drama"],
             "link": "https://drive.google.com/file/d/1N5EJUq07gMO0lxxX507Tn8Imvb9eG4Lp/preview?"
         },
-	    {
+        {
             "title": "Tá dando onda",
             "subt": "",
             "img": "images/Ta dando onda.jpg",
@@ -80,7 +90,7 @@
             "gender": ["animação", "comédia"],
             "link": "https://drive.google.com/file/d/1f_-iTWjxYYwfbRbewIXuvWilGG8kKlUO/preview?"
         },	
-	    {
+        {
             "title": "Fragmentado",
             "subt": "",
             "img": "images/Fragmentado.jpg",
@@ -90,7 +100,7 @@
             "gender": ["suspense", "fantasia", "terror"],
             "link": "https://drive.google.com/file/d/1vINfcbS7c6pQheVjlLG-mODOtKuH1VVp/preview?"
         },
-	    {
+        {
             "title": "Sinais",
             "subt": "",
             "img": "images/Sinais.jpg",
@@ -100,7 +110,7 @@
             "gender": ["fantasia", "drama", "ficção científica"],
             "link": "https://drive.google.com/file/d/1t-T9r2zKdmkgI7_S-LLBwgkls32X9kWv/preview?"
         },
-	    {
+        {
             "title": "Coraline",
             "subt": "e o mundo secreto",
             "img": "images/Coraline e o mundo secreto.jpg",
@@ -110,7 +120,7 @@
             "gender": ["animação", "fantasia", "família"],
             "link": "https://drive.google.com/file/d/1pIcjPTNc2BZWFCQ7AJQBnpOQMZGCWSZa/preview?"
         },
-	    {
+        {
             "title": "1917",
             "subt": "",
             "img": "images/1917.jpg",
@@ -120,7 +130,7 @@
             "gender": ["drama", "guerra"],
             "link": "https://drive.google.com/file/d/1bXsKuR6dP1aDMnmzV2JKqsDcFdwzHkYj/preview?"
         },
-	    {
+        {
             "title": "Coringa",
             "subt": "",
             "img": "images/Coringa.jpg",
@@ -140,7 +150,7 @@
             "gender": ["animação", "fantasia", "família"],
             "link": "https://drive.google.com/file/d/1E-gsLw9q4AaYLjQ8F68T0BI3Gk8NpOL3/preview?"
         },
-	{
+    {
             "title": "Carros 3",
             "subt": "",
             "img": "images/Carros 3.jpg",
@@ -150,7 +160,7 @@
             "gender": ["animação", "aventura", "fantasia", "família"],
             "link": "https://drive.google.com/file/d/1EP3CdS6x_XCxIox0yhYfSqUk4l_322MV/preview?"
         },
-	{
+    {
             "title": "Eu Robô",
             "subt": "",
             "img": "images/Eu Robô.jpg",
@@ -360,7 +370,7 @@
             "gender": ["ação", "aventura", "ficção científica"],
             "link": "https://drive.google.com/file/d/1rhfbatS9ZqCd8-OamRIR4B5u4I7Q3vXg/preview?"
         },
-	{
+    {
             "title": "Um dia",
             "subt": "",
             "img": "images/Um dia.jpg",
