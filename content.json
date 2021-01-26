@@ -1,6 +1,46 @@
 ﻿{
     "movies": [
         {
+            "title": "Maze runner",
+            "subt": "Correr ou morrer",
+            "img": "images/Maze runner - Correr ou morrer.jpg",
+            "duration": "1h 53min 27s",
+            "language": "Dublado",
+            "oscar": 0,
+            "gender": ["ação", "ficção científica"],
+            "link": "https://drive.google.com/file/d/19E_YAMM3ebXHCIpJ0iJTE5XcDuemSGIX/preview?"
+        },
+        {
+            "title": "Maze runner",
+            "subt": "Prova de fogo",
+            "img": "images/Maze runner - Prova de fogo.jpg",
+            "duration": "2h 11min 42s",
+            "language": "Dublado",
+            "oscar": 0,
+            "gender": ["aventura", "ação", "ficção científica"],
+            "link": "https://drive.google.com/file/d/1f4wUgOMdNerGV7-bO7ZlAViqP2zWf6vt/preview?"
+        },
+        {
+            "title": "Maze runner",
+            "subt": "A cura mortal",
+            "img": "images/Maze runner - A cura mortal.jpg",
+            "duration": "2h 23min 52s",
+            "language": "Dublado",
+            "oscar": 0,
+            "gender": ["aventura", "ficção científica"],
+            "link": "https://drive.google.com/file/d/1gZMbb3m2-pNIg_BdJrGbupN53dcSyLeI/preview?"
+        },
+	    {
+            "title": "Wall-e",
+            "subt": "",
+            "img": "images/Wall-e.jpg",
+            "duration": "1h 38min 11s",
+            "language": "Dublado",
+            "oscar": 0,
+            "gender": ["animação", "aventura", "ficção científica", "fantasia"],
+            "link": "https://drive.google.com/file/d/1Y9E19UddY8xB9KFjDMcA1mmnprL2Z6xm/preview?"
+        },
+        {
             "title": "Mad Max",
             "subt": "Estrada da fúria",
             "img": "images/Mad Max - Estrada da Furia.jpg",
@@ -10,13 +50,13 @@
             "gender": ["ação", "ficção científica"],
             "link": "https://drive.google.com/file/d/1An6m_LcEWi-nQfPn1tZH-YlNbO3wd3AI/preview?"
         },
-	{
+	    {
             "title": "Nasce uma estrela",
             "subt": "",
             "img": "images/Nasce uma estrela.jpg",
             "duration": "2h 15min 45s",
             "language": "Dublado",
-            "oscar": 0,
+            "oscar": 1,
             "gender": ["drama", "musical", "romance"],
             "link": "https://drive.google.com/file/d/1w8OjiVmusMfj6RfmM9XREp4dINq0FBE9/preview?"
         },
@@ -38,7 +78,7 @@
             "language": "Dublado",
             "oscar": 0,
             "gender": ["drama", "história"],
-            "link": "https://drive.google.com/file/d/1x0sm5ZkuXAfJlAxLIkO2OaMapRLBJyIp/preview?autoplay=1"
+            "link": "https://drive.google.com/file/d/1x0sm5ZkuXAfJlAxLIkO2OaMapRLBJyIp/preview?"
         },
         {
             "title": "Amantes eternos",
@@ -48,7 +88,7 @@
             "language": "Dublado",
             "oscar": 0,
             "gender": ["drama", "romance"],
-            "link": "https://drive.google.com/file/d/1x0sm5ZkuXAfJlAxLIkO2OaMapRLBJyIp/preview?autoplay=1"
+            "link": "https://drive.google.com/file/d/1x0sm5ZkuXAfJlAxLIkO2OaMapRLBJyIp/preview?"
         },
         {
             "title": "Até o último homem",
