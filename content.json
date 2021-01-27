@@ -1,6 +1,26 @@
 ﻿{
     "movies": [
         {
+            "title": "Titanic",
+            "subt": "",
+            "img": "images/Titanic",
+            "duration": "3h 14min 00s",
+            "language": "Dublado",
+            "oscar": 0,
+            "gender": ["drama", "romance"],
+            "link": "https://drive.google.com/file/d/15YxNFwgWlM-wgPzDNc627qQObPLnjzla/preview?"
+        },
+        {
+            "title": "O auto da Compadecida",
+            "subt": "",
+            "img": "images/O auto da Compadecida",
+            "duration": "1h 35min 00s",
+            "language": "Dublado",
+            "oscar": 0,
+            "gender": ["comédia", "aventura"],
+            "link": "https://drive.google.com/file/d/1l7S_JWaOkN88VAJzanoWwHFe1Bsx1rZG/preview?"
+        },
+        {
             "title": "Maze runner",
             "subt": "Correr ou morrer",
             "img": "images/Maze runner - Correr ou morrer.jpg",
