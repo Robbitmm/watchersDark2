@@ -1,6 +1,16 @@
 ﻿{
     "movies": [
-	{
+        {
+            "title": "O Homem Invisive",
+            "subt": "",
+            "img": "images/O homem invisível.jpg",
+            "duration": "2h 04min 23s",
+            "language": "Dublado",
+            "oscar": 0,
+            "gender": ["fantasia", "terror", "suspense"],
+            "link": "https://drive.google.com/file/d/1ng7oQoR--uEmNd386va_2rHSvACoyBok/preview?"
+        },
+	    {
             "title": "Prenda-me se for capaz",
             "subt": "",
             "img": "images/Prenda-me se for capaz.jpg",
