@@ -88,7 +88,7 @@ header{
 }
 
 .Menu li a {
-    color: white;
+    color: #999999;
     text-decoration: none; /*Sem underline*/
     width: 100%;
 }
@@ -154,6 +154,12 @@ header{
     text-align: center;
     padding: 10px;
     margin-left: -30px;
+}
+
+#category{
+    background-color: #141414;
+    color: #ffffff;
+    font-size: 15px;
 }
 
 /*O dobro do original*/
@@ -268,10 +274,10 @@ header{
         width: 100%;
         transform: scaleX(0);
         height: 2.5px;
-        bottom: 10px;
+        top: 70px;
         left: 0;
         
-        background-color: #ffffff;
+        background-color: #ff0202;
         transform-origin: bottom left;
         transition: transform 0.25s ease-out;
     }
@@ -348,9 +354,9 @@ header{
 
     .Logo {
         margin-left: 0;
-        padding-top: 10px;
-        padding-left: 10px;
-        width: 400px;
+        padding-top: 25px;
+        padding-left: 5px;
+        width: 300px;
     }
 
     .Menu{
@@ -374,7 +380,7 @@ header{
         font-size: 25px;
 
         height: 40px;
-        width: 300px;
+        width: 280px;
 
         top: 30px;
         left: -10px;
@@ -388,10 +394,10 @@ header{
         display: inline-block;
         border-bottom: none;
         font-size: 55px;
-        word-spacing: 30px;
+        word-spacing: 20px;
         position: relative;
         bottom: 70px;
-        left: 100px;
+        left: 65px;
     }
 
     .Menu li:hover {
@@ -419,5 +425,15 @@ header{
 
     .Menu li a {
         text-decoration: none; /*Sem underline*/
+    }
+
+    #category{
+        position: absolute;
+        display: none;
+        font-size: 25px;
+    }
+
+    #li-category:hover #category{
+        display: block;
     }
 }

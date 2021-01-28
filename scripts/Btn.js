@@ -109,6 +109,24 @@ function rotate(){
     }
 }
 
+function Category(){
+    let category = document.getElementById("category"),
+        categories = [
+            "Animação","Aventura","Ação","Biografia","Comédia",
+            "Drama","Família","Fantasia","Ficção Científica",
+            "Guerra","História","Musical","Policial","Romance",
+            "Suspense","Terror","Top"
+        ];
+
+    for(let i = 0; i < categories.length; i++){
+        let option = document.createElement('option');
+
+        option.text = categories[i];
+        option.setAttribute("value", categories[i].toLowerCase());
+
+        category.add(option);
+    }
+}
 
 $(document).ready(function(){
     $('#search_input').keydown(function(){
@@ -155,6 +173,50 @@ $(document).ready(function(){
 
             output += "</nav>"
 
+            $('#content').html(output);
+        })
+    })
+
+    $("#category").change(function(){
+        let category = $("#category").val(),
+            file = "content.json";
+        
+        $.getJSON(file, function(data){   
+            var regexp = new RegExp(category, "i"),
+                link = "contentPage.php?id=",
+                output;
+
+
+            output = "<div class='movies'>"
+            output += "<a name='movies'>"
+            output += "<h1>Filmes</h1>"
+            output += "</a>";
+            
+            $.each(data, function(key, val){
+                for(let i = 0; i < val.length; i++){
+                    let id = val.length - i - 1;
+
+                    if(category != 'tudo'){
+                        for(let a = 0; a < val[i].gender.length; a++){
+                            if(category == val[i].gender[a]){
+        
+                                output += "<nav class='title'>";
+                                output += "<a href='"+ link + id +"'>";
+                                output += "<img class='capa' src='"+ val[i].img + "'>";
+                                output += "</a></nav>"
+        
+                            }
+                        }
+                    }else{
+                        output += "<nav class='title'>";
+                        output += "<a href='"+ link + id +"'>";
+                        output += "<img class='capa' src='"+ val[i].img + "'>";
+                        output += "</a></nav>"
+                    }
+                }
+            });
+            output += "</nav>"
+    
             $('#content').html(output);
         })
     })
