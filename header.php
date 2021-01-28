@@ -17,6 +17,12 @@
                     <!--<li><a href="#">Categorias</a></li>-->
                     <li><a href="index.php#movies">Filmes</a></li>
                     <!--<li><a href="index.php#Series">Séries</a></li>-->
+                    <li id="li-category">
+                        <a><label for='category'>Categorias</label></a>
+                        <select id='category' name='category'>
+                            <option value="tudo">Tudo</option>
+                        </select>
+                    </li>
                 </ul>
             </nav>
     
