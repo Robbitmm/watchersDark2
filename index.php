@@ -6,19 +6,20 @@
         <link rel="stylesheet" href="styles/page.css">
     </head>
 
-    <body>
+    <body onload="Category()">
         <?php
             include_once('header.php');
         ?>
         
         <div id="content">
             <?php
-                //if(isset($_POST['s'])){
-                 //   include_once('searchContent.php');
-                //}    
-                //else{
+
+                if(isset($_POST['s'])){
+                    include_once('searchContent.php');
+                }    
+                else{
                     include_once('menuContent.php');
-                //}
+                }
             ?>
         </div>
     </body>

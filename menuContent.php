@@ -9,14 +9,16 @@
         //substr($string, numOfBits) -> Remove the first 3 bits
         //https://stackoverflow.com/questions/689185/json-decode-returns-null-after-webservice-call
 
+        
         $json = json_decode(substr($data, 3), true);
         $i = count($json['movies']) - 1;
-
+        
         $outout = "<div class='movies'>
                     <a name='movies'>
-                        <h1>Filmes</h1>
-                    </a>";
-
+                    <h1>Filmes</h1>
+                    </a>
+                </div>";
+                
         foreach($json['movies'] as $movie){
             $title = $movie['title'];
             $subt = $movie['subt'];
@@ -25,14 +27,14 @@
             $language = $movie['language'];
             $oscar = $movie['oscar'];
             $link = "contentPage.php?id=$i";
-
+            
             $outout .= "<nav class='title'>";
             $outout .= "<a href='$link'>";
             
             if($oscar === 1){
                 $outout .= "<img class='oscar' src='images/Oscar.png'>";
             }
-
+            
             $outout .= "<img class='capa' src='$img'>";
             /*$outout .= "<ul class='info'>";
             $outout .= "<li class='topic-Title'>".$title."<li>";
@@ -40,12 +42,26 @@
             $outout .= "<li class='topic'>".$time."<li>";
             $outout .= "<li class='topic'>".$language."</li>";*/
             $outout .= /*"        </ul>*/
-                        "</a>
-                    </nav>";
+            "</a>
+            </nav>";
             $i--;
         }
-
+        
         $outout .= "</div>";
         echo $outout;
-    ?>
+        
+        /*function Category(){
+            $categories = [
+                "animação","aventura","ação","biografia","comédia",
+                "drama","família","fantasia","ficção científica",
+                "guerra","história","musical","policial","romance",
+                "suspense","terror"
+            ];
+
+            for($i = 0; $i < count($categories); $i++){
+                echo "<option>".$categories[$i]."</option>";
+            }
+            return;
+        }*/
+        ?>
 </html>

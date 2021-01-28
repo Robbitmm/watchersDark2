@@ -1,4 +1,4 @@
-function Condition_menu() {
+﻿function Condition_menu() {
     var $element = document.getElementById("Btn");
 
     if ($element.classList.contains('close')) {
@@ -115,7 +115,7 @@ function Category(){
             "Animação","Aventura","Ação","Biografia","Comédia",
             "Drama","Família","Fantasia","Ficção Científica",
             "Guerra","História","Musical","Policial","Romance",
-            "Suspense","Terror","Top"
+            "Suspense","Terror"
         ];
 
     for(let i = 0; i < categories.length; i++){
