@@ -1,7 +1,27 @@
 ﻿{
     "movies": [
         {
-            "title": "O Homem Invisive",
+            "title": "Diamante de sangue",
+            "subt": "",
+            "img": "images/Diamante de sangue.jpg",
+            "duration": "1h 32min 46s",
+            "language": "Dublado",
+            "oscar": 0,
+            "gender": ["aventura", "drama", "suspense"],
+            "link": "https://drive.google.com/file/d/1bSls0nphR3_LnMRkdkjEpxjSOJ20HwZE/preview?"
+        },
+        {
+            "title": "Hércules",
+            "subt": "",
+            "img": "images/Hércules.jpg",
+            "duration": "1h 32min 46s",
+            "language": "Dublado",
+            "oscar": 0,
+            "gender": ["animação", "família", "musical"],
+            "link": "https://drive.google.com/file/d/1hrPWeDCY1fgNVRkuK_qfIBZGWehrDHAz/preview?"
+        },
+        {
+            "title": "O Homem Invisível",
             "subt": "",
             "img": "images/O homem invisível.jpg",
             "duration": "2h 04min 23s",
@@ -31,7 +51,7 @@
             "link": "https://drive.google.com/file/d/15YxNFwgWlM-wgPzDNc627qQObPLnjzla/preview?"
         },
         {
-            "title": "O auto da Compadecida.jpg",
+            "title": "O auto da Compadecida",
             "subt": "",
             "img": "images/O auto da Compadecida.jpg",
             "duration": "1h 35min 00s",
