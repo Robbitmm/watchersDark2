@@ -1,5 +1,15 @@
 ﻿{
     "movies": [
+	{
+            "title": "A fuga das galinhas",
+            "subt": "",
+            "img": "images/A fuga das galinhas.jpg",
+            "duration": "1h 32min 46s",
+            "language": "Dublado",
+            "oscar": 0,
+            "gender": ["animação", "aventura", "comédia"],
+            "link": "https://drive.google.com/file/d/1Myxy_AuIcjCuHKDrZRH-FNc2G2pKXG7t/preview?"
+        },
         {
             "title": "Diamante de sangue",
             "subt": "",
