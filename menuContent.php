@@ -1,6 +1,6 @@
 <html>
     <head>
-        <link rel="stylesheet" href="styles/page.css"/>
+        <!--<link rel="stylesheet" href="styles/page.css"/>-->
     </head>
 
     <?php
@@ -13,11 +13,9 @@
         $json = json_decode(substr($data, 3), true);
         $i = count($json['movies']) - 1;
         
-        $outout = "<div class='movies'>
-                    <a name='movies'>
-                    <h1>Filmes</h1>
-                    </a>
-                </div>";
+        $outout = "<a name='movies'>
+                        <h1>Filmes</h1>
+                    </a>";
                 
         foreach($json['movies'] as $movie){
             $title = $movie['title'];
@@ -46,8 +44,7 @@
             </nav>";
             $i--;
         }
-        
-        $outout .= "</div>";
+
         echo $outout;
         
         /*function Category(){
