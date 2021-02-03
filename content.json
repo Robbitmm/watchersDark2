@@ -1,6 +1,16 @@
 ﻿{
     "movies": [
-	{
+        {
+            "title": "Chappie",
+            "subt": "",
+            "img": "images/Chappie.jpg",
+            "duration": "2h 00min 19s",
+            "language": "Dublado",
+            "oscar": 0,
+            "gender": ["ação", "ficção científica"],
+            "link": "https://drive.google.com/file/d/1Yv9KCMl_KagcZW_8ZfPJWcCxAXTtT90C/preview?"
+        },
+	    {
             "title": "A fuga das galinhas",
             "subt": "",
             "img": "images/A fuga das galinhas.jpg",
