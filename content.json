@@ -1,6 +1,16 @@
 ﻿{
     "movies": [
         {
+            "title": "Era uma vez em Hollywood",
+            "subt": "",
+            "img": "images/Era uma vez em Hollywood.jpg",
+            "duration": "2h 41min 27s",
+            "language": "Dublado",
+            "oscar": 1,
+            "gender": ["drama", "comédia"],
+            "link": "https://drive.google.com/file/d/1fLOWomJBO-QjmpkLNzKX7wQ-_m7g2RJW/preview?"
+        },
+        {
             "title": "Chappie",
             "subt": "",
             "img": "images/Chappie.jpg",
