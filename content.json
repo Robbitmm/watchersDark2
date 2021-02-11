@@ -1,5 +1,15 @@
 ﻿{
     "movies": [
+	{
+            "title": "A rede social",
+            "subt": "",
+            "img": "images/A rede social.jpg",
+            "duration": "2h 00min 27s",
+            "language": "Dublado",
+            "oscar": 0,
+            "gender": ["drama"],
+            "link": "https://drive.google.com/file/d/1WWgqaxqAdAvJu-dDna0UilJKqr5KdAS3/preview?"
+        },
         {
             "title": "Era uma vez em Hollywood",
             "subt": "",
