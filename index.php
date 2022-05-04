@@ -12,15 +12,14 @@
         ?>
         
         <div id="content">
-            <div class="movies">
-                <?php
+            <?php
                 if(isset($_POST['s'])){
                     include_once('searchContent.php');
                 }    
                 else{
                     include_once('menuContent.php');
                 }
-                ?>
+            ?>
             </div>
         </div>
     </body>

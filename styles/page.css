@@ -1,4 +1,4 @@
-.movies{
+.movies, .series, .series{
     width: 315px;
     margin-left: auto;
     margin-right: auto;
@@ -56,7 +56,7 @@ a{
 }
 
 @media (min-width: 480px) {   
-    .movies{
+    .movies, .series{
         width: 452px;
     }
 
@@ -81,7 +81,7 @@ a{
 }
 
 @media (min-width: 768px) {
-    .movies{
+    .movies, .series{
         width: 680px;
     }
 
@@ -108,7 +108,7 @@ a{
 }
 
 @media (min-width: 1024px) {
-    .movies{
+    .movies, .series{
         width: 832px;
     }
 
@@ -133,7 +133,7 @@ a{
 }
 
 @media (min-width: 1280px) {
-    .movies{
+    .movies, .series{
         width: 1225px;
     }
 

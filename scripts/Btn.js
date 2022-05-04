@@ -136,7 +136,7 @@ $(document).ready(function(){
         if(search == "segredos" || search == "megalodon"){
             file = "secrets.json";
         }else{
-            file = "content.json";
+            file = "movies.json";
         }
 
         $.getJSON(file, function(data){
@@ -179,7 +179,7 @@ $(document).ready(function(){
 
     $("#category").change(function(){
         let category = $("#category").val(),
-            file = "content.json";
+            file = "movies.json";
         
         $.getJSON(file, function(data){   
             var regexp = new RegExp(category, "i"),
