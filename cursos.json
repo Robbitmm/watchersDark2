@@ -1,0 +1,29 @@
+{
+    "cursos": [
+	{
+        "title": "Açoes Garantem o futuro",
+        "subt": "",
+        "img": "images/AGF/Capa.jfif",
+        "season": 1,
+        "episodes": [
+            [
+                "Episódio 1 - Como comprar ações com 50% de desconto",
+                "Episódio 2 - Please Remain Calm",
+                "Episódio 3 - Open Wide, O Earth",
+                "Episódio 4 - The Happiness of All Mankind",
+                "Episódio 5 - Vichnaya Pamyat"
+            ]
+        ],
+        "language": "Português",
+        "gender": ["finaças"],
+        "link": [
+            [
+                "https://drive.google.com/file/d/1h_q9wUlM0DU7oH8BA3NkFGnar_AGc1p-/preview?",
+                "https://drive.google.com/file/d/1srf-T-QtBwOPzfskGlr-m6lTAGyJ2Wo2/preview?",
+                "https://drive.google.com/file/d/1Ufq4S5-qq0O1G9dVKEouVjK4Qu2mCJYg/preview?",
+                "https://drive.google.com/file/d/12bSzatSexuUus_Gs1--G9X9FKCfqGIU9/preview?",
+                "https://drive.google.com/file/d/1ZQ9hSvCOwkDwESkMNnOeG8g4DjMWfopx/preview?"
+            ]
+        ]
+    }]
+}

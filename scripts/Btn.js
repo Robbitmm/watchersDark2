@@ -135,6 +135,8 @@ $(document).ready(function(){
 
         if(search == "segredos" || search == "megalodon"){
             file = "secrets.json";
+        }else if (search == "cursos"){
+            file = "cursos.json"
         }else{
             file = "movies.json";
         }
